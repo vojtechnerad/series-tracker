@@ -1,10 +1,12 @@
-# series-tracker
+# series-tracker :film_strip:
 Web application for tracking progress of watching any TV series.
 
 Written in HTML, CSS and JavaScript.<br/>
-Data about TV shows are obtained via AJAX requests from [The Movie Database](https://www.themoviedb.org/).
+Data about TV shows are obtained via AJAX requests from [The Movie Database](https://www.themoviedb.org/).<br/>
+Added TV shows and marked episodes are saved into browsers local storage.
 
-[Demo of the series tracker application](https://vojtechnerad.github.io/series-tracker/app).
+
+[Demo of the application](https://vojtechnerad.github.io/series-tracker/app)
 
 ### Collection - frontpage of the application
 ![Frontpage of the series tracker application](series-tracker_frontpage.png)
